@@ -1,2 +1,2 @@
 # Deep-Learning
-Deep Learning using Python :)
+Deep Learning with Python.
